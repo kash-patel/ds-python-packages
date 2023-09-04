@@ -3,6 +3,9 @@ List of Python packages and installation instructions to reproducibly set up a d
 
 ## Packages
 
+### Meta
+ - mamba
+
 ### Jupyter
 - ipython
 - ipykernel	- Don't need if installing jupyter
